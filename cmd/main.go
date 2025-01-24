@@ -20,7 +20,9 @@ import (
 )
 
 func init() {
-	if err := godotenv.Load("../.env"); err != nil {
+	wd, _ := os.Getwd() // Get the current working directory
+	log.Printf("Current working directory: %s", wd)
+	if err := godotenv.Load(".env"); err != nil {
 		log.Fatalf("%v", err)
 	}
 	db.DBConnection()

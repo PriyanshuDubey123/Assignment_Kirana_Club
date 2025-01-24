@@ -10,6 +10,7 @@ RUN go mod download
 
 # Copy the source code into the container
 COPY . .
+COPY .env .env
 
 # Build the Go app
 RUN go build -o kirana_club ./cmd/main.go
