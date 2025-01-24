@@ -1,4 +1,4 @@
-module github.com/kanhaiyagupta9045/kirana_club
+module github.com/PriyanshuDubey123/Assignment_Kirana_Club
 
 go 1.23.0
 

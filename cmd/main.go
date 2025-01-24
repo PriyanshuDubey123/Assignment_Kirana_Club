@@ -12,11 +12,11 @@ import (
 
 	"github.com/gin-gonic/gin"
 	"github.com/joho/godotenv"
-	"github.com/kanhaiyagupta9045/kirana_club/apiroutes"
-	"github.com/kanhaiyagupta9045/kirana_club/internals/db"
-	"github.com/kanhaiyagupta9045/kirana_club/internals/repository"
-	"github.com/kanhaiyagupta9045/kirana_club/internals/store"
-	"github.com/kanhaiyagupta9045/kirana_club/message_broker"
+	"github.com/PriyanshuDubey123/Assignment_Kirana_Club/apiroutes"
+	"github.com/PriyanshuDubey123/Assignment_Kirana_Club/internals/db"
+	"github.com/PriyanshuDubey123/Assignment_Kirana_Club/internals/repository"
+	"github.com/PriyanshuDubey123/Assignment_Kirana_Club/internals/store"
+	"github.com/PriyanshuDubey123/Assignment_Kirana_Club/message_broker"
 )
 
 func init() {

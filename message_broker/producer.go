@@ -5,7 +5,7 @@ import (
 	"log"
 	"sync"
 
-	"github.com/kanhaiyagupta9045/kirana_club/internals/models"
+	"github.com/PriyanshuDubey123/Assignment_Kirana_Club/internals/models"
 	amqp "github.com/rabbitmq/amqp091-go"
 	"go.mongodb.org/mongo-driver/bson/primitive"
 )

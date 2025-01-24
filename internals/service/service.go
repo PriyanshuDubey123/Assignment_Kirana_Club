@@ -7,10 +7,10 @@ import (
 	"os"
 
 	"github.com/gin-gonic/gin"
-	"github.com/kanhaiyagupta9045/kirana_club/internals/models"
-	"github.com/kanhaiyagupta9045/kirana_club/internals/process"
-	"github.com/kanhaiyagupta9045/kirana_club/internals/repository"
-	"github.com/kanhaiyagupta9045/kirana_club/message_broker"
+	"github.com/PriyanshuDubey123/Assignment_Kirana_Club/internals/models"
+	"github.com/PriyanshuDubey123/Assignment_Kirana_Club/internals/process"
+	"github.com/PriyanshuDubey123/Assignment_Kirana_Club/internals/repository"
+	"github.com/PriyanshuDubey123/Assignment_Kirana_Club/message_broker"
 	"go.mongodb.org/mongo-driver/bson/primitive"
 )
 

@@ -8,8 +8,8 @@ import (
 	"os"
 	"time"
 
-	"github.com/kanhaiyagupta9045/kirana_club/internals/db"
-	"github.com/kanhaiyagupta9045/kirana_club/internals/models"
+	"github.com/PriyanshuDubey123/Assignment_Kirana_Club/internals/db"
+	"github.com/PriyanshuDubey123/Assignment_Kirana_Club/internals/models"
 	"go.mongodb.org/mongo-driver/bson"
 	"go.mongodb.org/mongo-driver/bson/primitive"
 	"go.mongodb.org/mongo-driver/mongo"

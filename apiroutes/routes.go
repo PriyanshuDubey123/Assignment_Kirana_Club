@@ -2,7 +2,7 @@ package apiroutes
 
 import (
 	"github.com/gin-gonic/gin"
-	"github.com/kanhaiyagupta9045/kirana_club/internals/service"
+	"github.com/PriyanshuDubey123/Assignment_Kirana_Club/internals/service"
 )
 
 func StoreVisitServiceRoutes(router *gin.Engine) {

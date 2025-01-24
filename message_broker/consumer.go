@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"log"
 
-	"github.com/kanhaiyagupta9045/kirana_club/internals/process"
+	"github.com/PriyanshuDubey123/Assignment_Kirana_Club/internals/process"
 	amqp "github.com/rabbitmq/amqp091-go"
 )
 
